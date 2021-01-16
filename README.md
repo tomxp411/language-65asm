@@ -15,6 +15,7 @@ Adds syntax highlighting to 65816/65C816/65802/6502/65C02 files in Atom, with ex
  - [WLA-DX](http://www.villehelin.com/wla.html)
  - [WTCTools by Western Design Center](http://westerndesigncenter.com/wdc/tools.cfm)
  - [Kick Assembler](http://theweb.dk/KickAssembler/Main.html#frontpage)
+ - [64TASS](http://tass64.sourceforge.net/)
 
 Originally [converted](http://atom.io/docs/latest/converting-a-text-mate-bundle)
 from the various other TextMate bundles:
